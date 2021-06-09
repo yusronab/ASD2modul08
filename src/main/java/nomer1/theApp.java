@@ -5,22 +5,22 @@ public class theApp {
         
         Node siNode;
         
-        siNode = new Node('A');
+        siNode = new Node('D');
         tree.insert(siNode);
         
         siNode = new Node('B');
         tree.insert(siNode);
         
-        siNode = new Node('D');
+        siNode = new Node('A');
         tree.insert(siNode);
         
         siNode = new Node('C');
         tree.insert(siNode);
         
-        siNode = new Node('E');
+        siNode = new Node('F');
         tree.insert(siNode);
         
-        siNode = new Node('F');
+        siNode = new Node('E');
         tree.insert(siNode);
         
         siNode = new Node('G');

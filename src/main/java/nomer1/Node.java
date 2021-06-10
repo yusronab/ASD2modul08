@@ -1,14 +1,14 @@
 package nomer1;
 public class Node {
     /*
-    a) b merupakan predesor dari c dan d
-    b) c dan d merupakan succesor dari b
-    c) a dan b merupakan ancestor dari d atau c
-    d) d dan b merupakan descendent dari a
-    e) b merupakan parent dari d
-    f) d merupakan child dari b
-    g) c dan d adalah sibling
-    h) subtree b,c,d dan subtree e,f,g
+    a) B merupakan predesor dari A dan C
+    b) A dan C merupakan succesor dari B
+    c) B dan D merupakan ancestor dari C atau A
+    d) B dan C merupakan descendent dari D
+    e) B merupakan parent dari C
+    f) C merupakan child dari B
+    g) A dan C adalah sibling, E dan G adalah sibling
+    h) subtree B,A,C dan subtree F,E,G
     */
     char data;
     Node left;
